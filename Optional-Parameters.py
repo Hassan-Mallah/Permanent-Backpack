@@ -25,4 +25,4 @@ class Car(object):
 
 
 whip = Car('Ford', 'Fusion', 2012)
-whip.display()
+whip.display(True)
