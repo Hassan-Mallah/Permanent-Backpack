@@ -1,4 +1,3 @@
-# simple example
 def func(x=1):
     return x **2
 
