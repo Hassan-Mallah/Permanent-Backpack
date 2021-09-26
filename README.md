@@ -5,3 +5,4 @@ Intermediate Python Tutorial
 - Static and Class Methods
 - Map function
 - Filter function
+- Lambda Functions
