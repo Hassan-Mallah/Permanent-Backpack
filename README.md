@@ -6,3 +6,4 @@ Intermediate Python Tutorial
 - Map function
 - Filter function
 - Lambda Functions
+- Collections and Counter
