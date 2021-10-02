@@ -7,3 +7,4 @@ Intermediate Python Tutorial
 - Filter function
 - Lambda Functions
 - Collections and Counter
+-  Collections - namedtuple()
