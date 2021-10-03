@@ -1,4 +1,5 @@
 # Permanent-Backpack
+
 Intermediate Python Tutorial
 
 - Optional Parameters
@@ -7,4 +8,7 @@ Intermediate Python Tutorial
 - Filter function
 - Lambda Functions
 - Collections and Counter
--  Collections - namedtuple()
+- Collections - namedtuple()
+- Collections - Deque(deck)
+
+Done :)
